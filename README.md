@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1999JD
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning React.js and Vue.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ： writer159.new@gmail.com 
 
 <!---

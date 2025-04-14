@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: https://github.com/1999JD/1999JD.git
-  branch: 'main'
+  branch: 'gh-pages'

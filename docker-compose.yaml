@@ -1,0 +1,15 @@
+services:
+  node:
+    build:
+      context: .
+    # container_name: frontend-sample
+    volumes:
+      - .:/workspace/blog
+      - ../../.ssh/:/root/.ssh/
+
+    ports:
+      - '4123:4000'
+    working_dir: /workspace/blog
+    privileged: true
+    tty: true
+    stdin_open: true
